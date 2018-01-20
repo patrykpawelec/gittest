@@ -1,0 +1,16 @@
+https://imgur.com/a/P2PjU
+https://pastebin.com/eF49sNsH
+git bash / git gui
+
+cd wchodzenie do folderu
+
+git commit -m "pierwszy commit"
+
+git push -u origin master
+
+cd.. folder nadrzedny
+
+git clone
+
+git diff
+
